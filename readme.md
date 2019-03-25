@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # learning MVC
 
 
@@ -34,3 +35,6 @@
 
 
 >>>>>>> Marianna
+=======
+# learning MVC Project
+>>>>>>> 209844aa0891d944e7d0e0c37e18a4688bfb62fe
