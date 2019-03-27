@@ -53,6 +53,6 @@ Password : <input type="text" name="password" id="password" required ><br>
 <input type="submit" name= 'Register' value='Register' id='register'>
 </form>
 
-    
+
 </body>
 </html>

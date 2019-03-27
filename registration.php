@@ -11,7 +11,7 @@ include('server.php')
   <div class="header">
   	<h2>Register</h2>
   </div>
-	
+
   <form method="post" action="registration.php">
   	<?php include('errors.php'); ?>
   	<div class="input-group">
