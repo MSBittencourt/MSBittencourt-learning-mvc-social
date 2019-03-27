@@ -1,11 +1,9 @@
-<?php
-$title = 'Registration';
-include('server.php')
-
-?>
+<?php include('server.php') ?>
+<!DOCTYPE html>
 <html>
 <head>
-  <title>MVC Project</title>
+  <title>Registration</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
   <div class="header">
