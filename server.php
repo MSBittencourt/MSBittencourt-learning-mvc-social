@@ -7,7 +7,8 @@ $email    = "";
 $errors = array();
 
 // connect to the database
-$db = mysqli_connect('localhost', 'senn', 'senn', 'mvc_project');
+
+$db = mysqli_connect('localhost', 'mvc', '', 'mvc_project');
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
