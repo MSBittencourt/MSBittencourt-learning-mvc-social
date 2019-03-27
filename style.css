@@ -1,0 +1,9 @@
+form {
+  background-color: grey;
+  padding: 40px;
+}
+
+#container {
+  max-width: 50%;
+  margin: auto;
+}
