@@ -1,4 +1,4 @@
-<?php include('server.php') ?>
+<?php include('./Models/server.php') ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,7 +11,7 @@
   </div>
 	
   <form method="post" action="registration.php">
-  	<?php include('errors.php'); ?>
+  	<?php include('./Controllers/errors.php'); ?>
   	<div class="input-group">
   	  <label>Username</label>
   	  <input type="text" name="username" value="<?php echo $username; ?>">

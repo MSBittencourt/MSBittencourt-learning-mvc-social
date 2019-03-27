@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include('server.php');
+include('./Models/server.php');
 
 $username=$_SESSION['username'];
 $sql="SELECT * FROM users WHERE Username='$username'";
